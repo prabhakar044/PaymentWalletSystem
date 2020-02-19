@@ -10,7 +10,10 @@ import com.capgemini.wallet.entity.WalletAccount;
 import com.capgemini.wallet.entity.WalletUser;
 
 public class WalletRepo {
-
+ /*****************************Wallet Repository**********************************
+ * 
+ * 
+ */
 	public static Map<Long, WalletAccount> accountmap = new HashMap<>();
 	
 	
